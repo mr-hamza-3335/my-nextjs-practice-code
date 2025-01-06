@@ -1,1 +1,1 @@
-# my-nextjs-practice-code
+# my-typescript-practice-code
